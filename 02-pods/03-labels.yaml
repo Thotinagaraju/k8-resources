@@ -4,7 +4,7 @@ metadata:
   name: label-demo
   labels:
     course: devops
-    triner: "nagaraju"
+    triner: "nagaraju thoti"
 spec:
   containers:
     - name: hello-pod
